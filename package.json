@@ -1,0 +1,19 @@
+{
+  "name": "labw7d3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "car_dealership.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "Yingying",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "systeminformation": "^5.12.6"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.0.3"
+  }
+}
